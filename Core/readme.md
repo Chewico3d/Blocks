@@ -1,0 +1,1 @@
+﻿This solution will controll the main program with all the rendering
